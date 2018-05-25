@@ -42,5 +42,4 @@ function man(name, age, gander){
 
 var stranger = new man("John", "22", "Male");
 
-console.log("Our player is  " + stranger.name + stranger.age + stranger.gander);
-
+console.log("Our player is so stronK :)  " + stranger.name + stranger.age + stranger.gander);
