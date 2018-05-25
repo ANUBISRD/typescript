@@ -40,6 +40,6 @@ function man(name, age, gander){
     this.gander = gander;
 }
 
-var stranger = new man("John", "22", "Male");
+var stranger = new man("Rado", "22", "Male");
 
-console.log("Our player is so stronK :)  " + stranger.name + stranger.age + stranger.gander);
+console.log("Our player is :)  " + stranger.name + stranger.age + stranger.gander);
